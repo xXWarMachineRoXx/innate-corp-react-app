@@ -1,0 +1,93 @@
+.innate-corp__Footer-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.innate-corp__Footer-container__Socials-Top-Bar{
+    background-color: var( --color-accent);
+    height: 92px;
+    padding: 38px 0;
+
+}
+.innate-corp__Footer-container__Socials-Top-Bar strong{
+    color: white;
+   
+    align-items: center;
+    justify-self: center;
+    margin: 38px 2rem;
+}
+.innate-corp__Footer-container__Bottom-box{
+    background-color: #162016;
+    height:379px;
+    display: flex;
+
+}
+.innate-corp__Footer-container__Bottom-box__content{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.innate-corp__Footer-container__Bottom-box__content h3{
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    margin-bottom: 1rem;
+}
+.innate-corp__Footer-container__Bottom-box__col-1{
+    /* height: 137px; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 1rem 0;
+    height: 182px;
+    width: 419px;
+}
+
+.innate-corp__Footer-container__Bottom-box__col-1 img{
+    width: 56.85px;
+    height: 56px;
+    align-content: flex-start;
+    flex-direction: row;
+    display: inline;
+}
+.innate-corp__Footer-container__Bottom-box__col-1 h1{
+    width: fit-content;
+    flex-direction: row;
+    display: inline;
+
+}
+.innate-corp__Footer-container__Bottom-box__col-1__img img{
+    height: 30px;
+    width: 30px;
+    margin: 1rem 1rem 0rem   0rem;
+}
+.innate-corp__Footer-container__Bottom-box__content{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.innate-corp__Footer-container__Bottom-box__col-2{
+    display: flex;
+    flex-direction: column;
+    height: 182px;
+    width: 114px;
+    margin: 0rem 5rem;
+
+}
+.innate-corp__Footer-container__Bottom-box__col-3{
+    display: flex;
+    flex-direction: column;
+    height: 182px;
+    width: 114px;
+    margin: 0rem 5rem;
+
+}
+.innate-corp__Footer-container__Bottom-box__col-4{
+    display: flex;
+    flex-direction: column;
+    height: 182px;
+    width: 260px;
+    margin: 0rem 5rem;
+    line-height: 2rem;
+
+}

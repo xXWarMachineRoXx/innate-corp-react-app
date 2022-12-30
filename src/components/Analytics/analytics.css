@@ -1,0 +1,102 @@
+.html,body,:root{
+    margin: 0;
+    padding: 0;
+}
+
+.innate-corp__analytics{
+    display:flex;
+    font-family: var(--font-family);
+    padding: 0;
+    border: 0;
+
+    flex-direction: row-reverse;
+    background-color: rgb(255, 255, 255);
+    width:100%;
+    height: 700px;
+}
+.innate-corp__analytics-content__Big__text{
+    margin-top: 2rem;
+    margin-right: 20px;
+    font-style: normal;
+    font-weight: 700;
+    background-color: white;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    
+    font-size:  4.8076923076923075vw ;
+    line-height:  5.769230769230769vw;
+    text-align: right;
+
+    color: rgb(0, 0, 0);
+
+}
+
+.button{
+    background-color: #000000; /* Green */
+    color: white;
+    /* padding: 1.937984496124031vh;   */
+    border-radius: 24.9031007751938vh;
+    font-family: var(--font-family);
+    text-decoration: none;
+    display: inline-block;
+    margin:  10.2403846153846154vw 0.19212295869356388vh;
+    width: 15.14423076923077vw;
+    height:  9.990393852065322vh;  
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 2vh;
+    text-align: center;
+    justify-content: center;
+    text-anchor: middle;
+    line-height: 3.488372093023256vh;
+    text-align: center;
+    border-color: white;
+
+}
+/* .button.button {
+    border: none;
+    margin-top: 2px;
+} */
+.button p{
+    margin-top:2.881844380403458vh;
+    margin-bottom:2.881844380403458vh;
+
+}
+.button svg,arrow{
+    margin-top: 2rem;
+    
+}
+.innate-corp__analytics-image svg{
+    margin-left: 4rem;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    margin-right: 1rem;
+}
+
+.analytics-anim{
+    /* margin-left: 4rem; */
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 200px;
+
+}
+.svg{
+    float: left;
+}
+.rect{
+    float: left;
+}
+.analytics-anim svg{
+    margin-left: 4rem;
+     display: flex;
+     align-items: flex-start;
+     margin-top: 2px;
+     margin-left: 0;
+    margin-bottom: 200px; 
+     justify-content: flex-start;
+}
+
+@media screen and (max-width:300px) {
+    
+}

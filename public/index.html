@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="keywords" content="Innate, Corp, Brand Strategy,Best,Marketing,Online Sales,">
+    <meta name="theme-color" content="#000000" />
+    
+    <!-- <meta http-equiv="refresh" content="30"> -->
+    <meta
+      name="description"
+      content="Innate Corp's Official Website"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/images/192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>Innate Corp</title>
+  </head>
+  <body>
+    <div id="root">
+    
+    </div>
+    <script>
+      if('serviceWorker' in navigator){
+        window.addEventListener('load',()=>{
+          navigator.serviceWorker.register('%PUBLIC_URL%/serviceworker.js')
+            .then((reg)=>console.log('Sucess :',reg.scope))
+            .catch((err) => console.log("Failure : ",err));
+        })
+      }
+    </script>
+    </body>
+</html>
