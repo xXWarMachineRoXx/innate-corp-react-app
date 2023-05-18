@@ -1,5 +1,4 @@
 import React from 'react'
-import {AiOutlineArrowRight} from 'react-icons/ai'
 import "./analytics.css"
 
 import Lottie from 'lottie-react';
