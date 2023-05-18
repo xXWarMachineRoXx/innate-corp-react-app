@@ -1,3 +1,4 @@
+[Innate Corp](https://github.com/xxXWarMachineRoXxx/innate-corp-react-app/blob/dev/assets/images/logo.svg)
 # Innate Corp | Digital Brand Transformation | React Website 
 This is a company website showcasing customer-centric solutions and branding strategies. The website offers a streamlined approach for efficient decision-making to drive business growth.
 
