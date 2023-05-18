@@ -1,4 +1,4 @@
-[Innate Corp](https://github.com/xxXWarMachineRoXxx/innate-corp-react-app/blob/dev/assets/images/logo.svg)
+<img src='https://github.com/xxXWarMachineRoXxx/innate-corp-react-app/blob/dev/public/images/Innate512.png' width="100px"></img>
 # Innate Corp | Digital Brand Transformation | React Website 
 This is a company website showcasing customer-centric solutions and branding strategies. The website offers a streamlined approach for efficient decision-making to drive business growth.
 
