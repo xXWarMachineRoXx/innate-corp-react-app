@@ -1,6 +1,8 @@
 import React from 'react';
 
-import {Footer,Blog,Header} from './container';
+// import {Footer,Blog,Header} from './container';
+import {Footer,Header} from './container';
+
 import { UX,Brand,Navbar,Analytics} from './components';
 import brand_animation from "./components/brand/sunflower.json"
 // import Ux_anim from "./assets/animations/lf30_editor_uytlkoma.json"
@@ -9,7 +11,7 @@ import Ux_anim from './assets/animations/UX.json'
 import Sales_anim from './assets/animations/sales.json'
 import "./App.css"
 import Sales from './components/Sales/Sales';
-import FooterForm from './components/FooterForm/FooterForm'
+// import FooterForm from './components/FooterForm/FooterForm'
 const App = () => {
   return (
     <div className='App'>

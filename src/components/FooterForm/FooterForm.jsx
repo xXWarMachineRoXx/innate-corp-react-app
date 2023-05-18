@@ -4,18 +4,18 @@ import { useState } from "react";
 
 function FooterForm() {
   const [inputs, setInputs] = useState({});
-  const [checked, setChecked] = useState(true);
+  // const [checked, setChecked] = useState(true);
   const handleChange = (event) => {
     const name = event.target.name;
     const value = event.target.value;
     setInputs(values => ({...values, [name]: value}))
   }
  
-  const handleButtonChange = (event) => {
-    event.target.style.background = "#83CEFD";
+  // const handleButtonChange = (event) => {
+  //   event.target.style.background = "#83CEFD";
     
     
-  }
+  // }
   const handleSubmit = (event) => {
     event.preventDefault();
     console.log(inputs);
