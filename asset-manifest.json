@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/innate-corp-react-app/static/css/main.be734726.css",
-    "main.js": "/innate-corp-react-app/static/js/main.7687e6d8.js",
+    "main.js": "/innate-corp-react-app/static/js/main.9c8b8ab9.js",
     "static/media/footer-background.png": "/innate-corp-react-app/static/media/footer-background.e7005e9bbd812c98b242.png",
     "static/media/Innate corp elements.svg": "/innate-corp-react-app/static/media/Innate corp elements.74ee622225288284df08ee7a02a3599d.svg",
-    "static/media/online Sales.svg": "/innate-corp-react-app/static/media/online Sales.8e37979f288c73e8f02a7e193874d50c.svg",
+    "static/media/online Sales.svg": "/innate-corp-react-app/static/media/online Sales.9034257cad81ec4c5cb82ebcbc26a1f0.svg",
     "static/media/brand.svg": "/innate-corp-react-app/static/media/brand.c7e4ec252f96a892f97dd31bb80d43a2.svg",
     "static/media/analytics.svg": "/innate-corp-react-app/static/media/analytics.cf002ffd7427ecaf9c3be4a5fe7e758c.svg",
     "static/media/UX.svg": "/innate-corp-react-app/static/media/UX.db101f69149beb98a9c7a183b0da4cf4.svg",
     "index.html": "/innate-corp-react-app/index.html",
     "main.be734726.css.map": "/innate-corp-react-app/static/css/main.be734726.css.map",
-    "main.7687e6d8.js.map": "/innate-corp-react-app/static/js/main.7687e6d8.js.map"
+    "main.9c8b8ab9.js.map": "/innate-corp-react-app/static/js/main.9c8b8ab9.js.map"
   },
   "entrypoints": [
     "static/css/main.be734726.css",
-    "static/js/main.7687e6d8.js"
+    "static/js/main.9c8b8ab9.js"
   ]
 }
