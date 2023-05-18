@@ -1,6 +1,6 @@
 # Getting Started with Innate Corp React App
 ## Thi is the dev branch of Innate corp app
-This web app can be viewed at  [View]( http://bitwalls.me/innate-corp-react-app/).
+This web app can be viewed at  [View Site]( http://bitwalls.me/innate-corp-react-app/).
 
 ## Available Scripts
 
