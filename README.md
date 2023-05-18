@@ -1,6 +1,6 @@
 # Getting Started with Innate Corp React App
-## THis is the dev branch of Innate corp app
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Thi is the dev branch of Innate corp app
+This web app can be viewed at  [View]( http://bitwalls.me/innate-corp-react-app/).
 
 ## Available Scripts
 
